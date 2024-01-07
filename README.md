@@ -64,35 +64,45 @@
 ## Project
 
 ### Olympic Data Analysis Project
-**Objective:** Explore fairness, physical fitness requirements across sports, and predict medal winners.  
-**Techniques:** Statistical analysis and machine learning with decision tree models.  
-**Findings:** Insights on gender equity, influence of an athlete's country, and physical requirements across sports. Concluded the Olympic Games maintain overall fairness.
+- **Techniques Used**: Statistical analysis, Machine Learning, Decision Tree Models
+- **Overview and Achievements**:
+  - Conducted a comprehensive analysis of Olympic events data to explore the fairness of the games and physical fitness requirements across different sports.
+  - Developed a predictive model to identify potential medal winners, focusing on attributes like gender, height, weight, and country.
+  - Found key insights regarding gender equity, influence of an athlete's country, and physical requirements across sports, concluding overall fairness in the Olympic Games.
 
 ### Football Team Optimization using Gurobi
-**Objective:** Optimize player selection, transfers, and coaching decisions for professional football teams using Gurobi.  
-**Methodology:** Mixed-Integer Programming for discrete optimization, focusing on Manchester City, Manchester United, and the German national team.  
-**Outcomes:** Strategic player management insights, showcasing optimization techniques in sports decision-making.
+- **Techniques Used**: Mixed-Integer Programming, Gurobi Optimization
+- **Overview and Achievements**:
+  - Introduced a novel approach to optimize player selection, transfers, and coaching decisions in professional football.
+  - Focused on strategic insights for teams like Manchester City, Manchester United, and the German national team.
+  - Delivered models providing insights into effective player management strategies, demonstrating the potential of optimization in sports decision-making.
 
 ### IMDb Score Prediction Project
-**Objective:** Predict IMDb scores for movies to aid moviegoers and the industry.  
-**Approach:** Polynomial regression, log-transformed models, and spline predictions with in-depth IMDb dataset analysis.  
-**Performance:** Achieved an R-squared of 0.4297 and MSE of 0.718, offering accurate score predictions.
+- **Techniques Used**: Polynomial Regression, Log-Transformed Models, Spline Predictions
+- **Overview and Achievements**:
+  - Aimed to construct predictive models for IMDb scores, analyzing extensive IMDb data.
+  - Developed robust models predicting movie success, beneficial for moviegoers and the film industry.
+  - Achieved a model with an R-squared of 0.4297 and an MSE of 0.718, providing accurate IMDb score predictions.
 
 ### Decoding Crime Patterns with Predictive Analytics
-**Objective:** Analyze and anticipate crime patterns in Los Angeles to enhance public safety.  
-**Techniques:** Decision trees, random forests, and ANN, using LAPD and environmental data.  
-**Results:** Identified significant crime trends and potential hotspots, demonstrating predictive analytics' potential in crime prevention.
+- **Techniques Used**: Decision Trees, Random Forests, Artificial Neural Networks
+- **Overview and Achievements**:
+  - Utilized predictive analytics to understand and anticipate crime patterns in Los Angeles.
+  - Analyzed LAPD crime data and environmental factors, employing advanced analytics for pattern extraction.
+  - Highlighted significant crime trends and potential hotspots, showcasing the role of predictive analytics in enhancing public safety.
 
 ### Kickstarter Campaign Success Analysis
-**Objective:** Predict Kickstarter campaign success and categorize campaign characteristics.  
-**Methodology:** Employed Random Forest for classification and KMeans for clustering.  
-**Conclusions:** Delivered insights into factors influencing campaign success and detailed understanding of various campaign types.
+- **Techniques Used**: Random Forest, KMeans Clustering
+- **Overview and Achievements**:
+  - Explored Kickstarter campaign data to predict project success and understand campaign dynamics.
+  - Used classification and clustering models to analyze campaign data, providing insights into campaign success factors.
+  - Offered a detailed understanding of various campaign types through clustering analysis.
 
-### Airbnb Website Building
-**Objective:** Host a live website for interacting with a dummy Airbnb database.  
-**Key Features:** Streamlit-based website, interactive database queries, and a relational schema for reference.  
-**Usage:** Users can interact with the database through pre-defined or custom queries, with a visual representation of the database schema.
-
-
+### Group Project Insy 661 Airbnb
+- **Techniques Used**: Database Management, Streamlit, SQL
+- **Overview and Achievements**:
+  - Hosted a live website for interactive engagement with a dummy Airbnb database.
+  - Utilized Streamlit for website design and SQL for database interaction, providing a user-friendly platform for custom database queries.
+  - Enabled users to gain hands-on experience with database queries, enhancing their understanding of relational databases.
 
 
