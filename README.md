@@ -98,7 +98,7 @@
   - Used classification and clustering models to analyze campaign data, providing insights into campaign success factors.
   - Offered a detailed understanding of various campaign types through clustering analysis.
 
-### Group Project Insy 661 Airbnb
+### Airbnb Website Building
 - **Techniques Used**: Database Management, Streamlit, SQL
 - **Overview and Achievements**:
   - Hosted a live website for interactive engagement with a dummy Airbnb database.
