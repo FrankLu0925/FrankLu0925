@@ -47,7 +47,7 @@
 
 ### UBC Department of Asian Studies
 - **Role**: Mandarin Tutor
-- Location: Vancouver, Canada
+- Location: Vancouver, Canada (Remote)
 - Duration: May 2022 – June 2022
 - Responsibilities and Achievements:
   - Utilized bilingual skills to teach Mandarin to UBC students, enhancing their communication, reading, and writing skills.
