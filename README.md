@@ -63,32 +63,32 @@
 
 ## Project
 
-### 1. Olympic Data Analysis Project
+### Olympic Data Analysis Project
 **Objective:** Explore fairness, physical fitness requirements across sports, and predict medal winners.  
 **Techniques:** Statistical analysis and machine learning with decision tree models.  
 **Findings:** Insights on gender equity, influence of an athlete's country, and physical requirements across sports. Concluded the Olympic Games maintain overall fairness.
 
-### 2. Football Team Optimization using Gurobi
+### Football Team Optimization using Gurobi
 **Objective:** Optimize player selection, transfers, and coaching decisions for professional football teams using Gurobi.  
 **Methodology:** Mixed-Integer Programming for discrete optimization, focusing on Manchester City, Manchester United, and the German national team.  
 **Outcomes:** Strategic player management insights, showcasing optimization techniques in sports decision-making.
 
-### 3. IMDb Score Prediction Project
+### IMDb Score Prediction Project
 **Objective:** Predict IMDb scores for movies to aid moviegoers and the industry.  
 **Approach:** Polynomial regression, log-transformed models, and spline predictions with in-depth IMDb dataset analysis.  
 **Performance:** Achieved an R-squared of 0.4297 and MSE of 0.718, offering accurate score predictions.
 
-### 4. Decoding Crime Patterns with Predictive Analytics
+### Decoding Crime Patterns with Predictive Analytics
 **Objective:** Analyze and anticipate crime patterns in Los Angeles to enhance public safety.  
 **Techniques:** Decision trees, random forests, and ANN, using LAPD and environmental data.  
 **Results:** Identified significant crime trends and potential hotspots, demonstrating predictive analytics' potential in crime prevention.
 
-### 5. Kickstarter Campaign Success Analysis
+### Kickstarter Campaign Success Analysis
 **Objective:** Predict Kickstarter campaign success and categorize campaign characteristics.  
 **Methodology:** Employed Random Forest for classification and KMeans for clustering.  
 **Conclusions:** Delivered insights into factors influencing campaign success and detailed understanding of various campaign types.
 
-### 6. Airbnb Website Building
+### Airbnb Website Building
 **Objective:** Host a live website for interacting with a dummy Airbnb database.  
 **Key Features:** Streamlit-based website, interactive database queries, and a relational schema for reference.  
 **Usage:** Users can interact with the database through pre-defined or custom queries, with a visual representation of the database schema.
