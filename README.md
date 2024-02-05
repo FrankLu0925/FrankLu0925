@@ -1,4 +1,4 @@
-# Yifan Lu's Portfolio 💻
+# Yifan Lu's Portfolio
 
 ## Education 📚
 
