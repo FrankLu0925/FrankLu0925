@@ -1,6 +1,6 @@
 # Yifan Lu Portfolio 💻
 
-## Education
+## Education 📚
 
 ### McGill University
 - **Desautels Faculty of Management**
@@ -15,7 +15,7 @@
 - GPA: 3.7/4.0
 - Dean's Honour List Recipient (2020W, 2021W)
 
-## Professional Experience
+## Professional Experience 🏢
 
 ### Royal Bank of Canada
 - **Position**: Business Analyst
@@ -61,7 +61,7 @@
   - Led a 70-member organization, devised development plans for community engagement.
   - Organized recruitment, promotional activities, and events; coordinated practice sessions with professional teams to elevate members' basketball skills.
 
-## Project
+## Project 📝
 
 ### Olympic Data Analysis Project
 - **Techniques Used**: Statistical analysis, Machine Learning, Decision Tree Models
