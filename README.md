@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Yifan Lu Portfolio
 
 ## Education
 
